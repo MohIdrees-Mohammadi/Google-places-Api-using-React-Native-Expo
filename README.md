@@ -40,7 +40,7 @@ This project demonstrates the use of the Google Places API for autocomplete func
 
 Start the Expo development server:
 
-    ```bash
+    ```
     npm start
     ```
 

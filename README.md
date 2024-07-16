@@ -40,9 +40,9 @@ This project demonstrates the use of the Google Places API for autocomplete func
 
 Start the Expo development server:
 
-    ```
+
     npm start
-    ```
+   
 
 Scan the QR code with the Expo Go app on your mobile device, or use an emulator to run the app.
 

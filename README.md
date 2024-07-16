@@ -2,6 +2,8 @@
 
 This project demonstrates the use of the Google Places API for autocomplete functionality in a React Native application built with Expo.
 
+![App Screenshot] (https://res.cloudinary.com/dzobi6ntc/image/upload/v1721109640/mockup_hgbx4m.png)
+
 ## Features
 
 - Autocomplete search using the Google Places API
